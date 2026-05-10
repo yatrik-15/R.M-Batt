@@ -1,0 +1,16 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 15 Feb 2026 00:40:39 at https://clonify-knots-kit.framer.website/headers#header06 +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://clonify-knots-kit.framer.website/headers#header06 -O1 "Y:\website\rm" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+00:42:04	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link primary/robots.txt (from primary/primary)
+00:42:04	Warning: 	Retry after error -5 (Unable to get server's address: No such host is known. ) at link primary/header06 (from primary/primary)
+00:42:18	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link primary/header06 (from primary/primary)
+00:43:48	Error: 	"Not Found" (404) at link https://clonify-knots-kit.framer.website/404 (from https://clonify-knots-kit.framer.website/)
+00:43:48	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link primary/header06 (from primary/primary)
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 9 seconds : 128 links scanned, 122 files written (62396613 bytes overall) [58485289 bytes received at 309445 bytes/sec], 4691549 bytes transferred using HTTP compression in 17 files, ratio 10%, 5.1 requests per connection
+(3 errors, 2 warnings, 0 messages)
